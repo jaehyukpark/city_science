@@ -2,6 +2,9 @@
 
 ## 1. Patent
 
+- Source: [Patent Examination Research Dataset (Public PAIR)](https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-examination-research-dataset-public-pair)
+- Year: 2014 ~ 2019
+
 ### (1) Geography of Innovation
 
 - In terms of the number of patent
