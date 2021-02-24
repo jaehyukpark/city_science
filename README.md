@@ -1,11 +1,18 @@
-# How does city influence scientific advancement?
+# How are the innovations in rural area different from those in urban area?
 
-## 1. Patent
+## 1. Data: Patent
 
 - Source: [Patent Examination Research Dataset (Public PAIR)](https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-examination-research-dataset-public-pair)
 - Year: 2014 ~ 2019
 
-### (1) Geography of Innovation
+## 2. Related Works
+
+- Complementary relationship between VC (venture capital) and CF (Crowd Funding) -> Complementary relationship between rural innovation and urban innovation?
+- Slow innovators in rural area vs. Fast innovators in urban area by Richard Shearmura and David Doloreux (2016)
+
+## 3. Analysis 
+
+### (1) Geographical Distribution of Innovation
 
 - In terms of the number of patent
   - related to the urban scaling studies
@@ -16,7 +23,6 @@
   - Quality of innovation 
   - number of citation per patent 
 
-
 - Comparison across disciplines
-  - How the charateristics of a city affect the quantity and quality of innovation?
-  - Is the scientific innovation embedded in the industrial structure of the city where the scientists reside?  
+  - How does the urbanity of a region affects the quantity and quality of innovation?
+  
