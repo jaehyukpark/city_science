@@ -1,9 +1,20 @@
 # How are the innovations in rural area different from those in urban area?
 
-## 1. Data: Patent
+## 1. Data 
+
+### (1) Patent
 
 - Source: [Patent Examination Research Dataset (Public PAIR)](https://www.uspto.gov/learning-and-resources/electronic-data-products/patent-examination-research-dataset-public-pair)
 - Year: 2014 ~ 2019
+
+### (2) Urbanization
+
+- Source: [Rural-Urban Continuum Codes 2013 by USDA](https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx)
+
+### (3) City name to County
+
+- City name to County, State name: https://github.com/grammakov/USA-cities-and-states
+- County Name to FIPS: [2018 FIPS Codes by US Census](https://www.census.gov/geographies/reference-files/2018/demo/popest/2018-fips.html)
 
 ## 2. Related Works
 
